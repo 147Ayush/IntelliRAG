@@ -68,7 +68,7 @@ This stage loads all supported files, splits them into chunks, and stores them i
 }
 ```
 ---
-[Data_injection_pipeline](https://choosealicense.com/licenses/mit/)
+[Data_injection_pipeline](image/img_1.png)
 
 ---
 
@@ -106,7 +106,7 @@ This stage loads all supported files, splits them into chunks, and stores them i
 ]
 ```
 ---
-[Retriever_pipeline](https://choosealicense.com/licenses/mit/)
+[Retriever_pipeline](image/img_2.png)
 
 ---
 
