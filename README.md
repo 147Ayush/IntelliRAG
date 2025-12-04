@@ -68,7 +68,7 @@ This stage loads all supported files, splits them into chunks, and stores them i
 }
 ```
 ---
-[Data_injection_pipeline](image/img_1.png)
+![Data_injection_pipeline](image/img_1.png)
 
 ---
 
@@ -106,7 +106,7 @@ This stage loads all supported files, splits them into chunks, and stores them i
 ]
 ```
 ---
-[Retriever_pipeline](image/img_2.png)
+![Retriever_pipeline](image/img_2.png)
 
 ---
 
