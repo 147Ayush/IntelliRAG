@@ -68,7 +68,7 @@ This stage loads all supported files, splits them into chunks, and stores them i
 }
 ```
 ---
-Image Placeholder: Data Injection Flow (add image in images/data_injection.png)
+[Data_injection_pipeline](https://choosealicense.com/licenses/mit/)
 
 ---
 
@@ -106,7 +106,7 @@ Image Placeholder: Data Injection Flow (add image in images/data_injection.png)
 ]
 ```
 ---
-Image Placeholder: Retriever + LLM Flow (add image in images/retriever_pipeline.png)
+[Retriever_pipeline](https://choosealicense.com/licenses/mit/)
 
 ---
 
@@ -274,4 +274,4 @@ Answer: Shareholders’ equity represents the owners’ claim on the company’s
 
 ---
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
