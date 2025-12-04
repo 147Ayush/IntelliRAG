@@ -115,7 +115,7 @@ This stage loads all supported files, splits them into chunks, and stores them i
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/147Ayush/IntelliRAG.git
 cd IntelliRAG
 ```
 ### 2. Create a Virtual Environment
