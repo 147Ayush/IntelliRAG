@@ -1,5 +1,6 @@
 # 📚 IntelliRAG – Local RAG Pipeline with LLM Support
-
+---
+![image](image/Gemini_Generated_Image_5xnp915xnp915xnp.png)
 ---
 
 ## 🚀 Project Overview
